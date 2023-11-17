@@ -7,7 +7,7 @@ Dataset clarification:
 3.Image folder contains all image files stored in JSON format
 
 Coding files:
-Dataset preprocessing contains all procedures of data crawller, conversion, formatting
+\Dataset preprocessing contains all procedures of data crawller, conversion, formatting
 Model(CNN regression + calculator) contains all nesseccery procedures used in model construction
 reminder: Cascade and combined model is not provided
 
