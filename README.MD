@@ -15,5 +15,5 @@ Dataset preprocessing contains all procedures of data crawler, conversion, forma
 
 Model(CNN regression + calculator) contains all necessary procedures used in model construction
 
-reminder: Cascade and combined model is not provided
+reminder: Both dataset preprocessing and Model were conducted on google colab pro. Cascade and combined model is not provided
 
